@@ -1,0 +1,22 @@
+////////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// json.h
+//
+// Librería simple para archivos JSON
+//
+// Autor: Germán Martínez
+// Licencia: GPL-3.0
+//
+////////////////////////////////////////////////////////////////////////////////////////////////////
+#ifndef JSON_H
+#define JSON_H
+
+#include "JsonFile.h"
+#include "JsonArray.h"
+#include "JsonValue.h"
+#include "JsonObject.h"
+#include "JsonParser.h"
+#include "JsonWriter.h"
+#include "JsonParserException.h"
+
+#endif // JSON_H
